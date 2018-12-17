@@ -1,0 +1,14 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Simple node server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "server"
+  ],
+  "license": "MIT"
+}

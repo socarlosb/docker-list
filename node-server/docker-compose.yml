@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  my-server:
+    container_name: node-server-service
+    build: .
+    ports:
+      - "3000:3000"
+    restart: always
